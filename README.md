@@ -36,7 +36,7 @@ Scraping nearly 10,000 blog posts from the the [Towardsdatascience](https://towa
 - Avoid passive voice
 - Tutorials and overviews garner more interest than news pieces (e.g., trends in tech)
 
-Model performance was, however, relatively poor in terms of both r-squared and MAE. Future directions will focus on new data sources, such as author characteristics (e.g., followers) and social media factors (e.g., tweets of post). 
+Future directions will focus on new data sources, such as author characteristics (e.g., followers) and social media factors (e.g., tweets of post). 
 
 ### Methods Used
 - Linear modeling (linear regression, Ridge, Lasso, ElasticNet)
