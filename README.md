@@ -1,3 +1,6 @@
+![](Images/janko-ferlic-sfL_QOnmy00-unsplash.jpg)
+*Photo by 🇸🇮 Janko Ferlič on [Unsplash](https://unsplash.com/s/photos/writing?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)*
+
 # Towards the Perfect Data Science Blog Post
 
 Scraping nearly 10,000 blog posts from the the [Towardsdatascience](https://towardsdatascience.com/) archives, I attempted to build a machine learning model to predict the claps that a post received. 
